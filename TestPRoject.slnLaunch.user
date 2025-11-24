@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "TestPRoject\\TestPRoject.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "SampleConsoleApp\\OAuthApp Project.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
